@@ -1,0 +1,25 @@
+{
+  "name": "@mikkelfrederiksen/fetcher",
+  "version": "1.0.0",
+  "description": "ajax fetch wrapper",
+  "main": "fetcher.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mikkels-open-source/fetcher.git"
+  },
+  "keywords": [
+    "fetch"
+  ],
+  "author": "Mikkel Frederiksen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mikkels-open-source/fetcher/issues"
+  },
+  "homepage": "https://github.com/Mikkels-open-source/fetcher#readme"
+}
