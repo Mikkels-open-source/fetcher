@@ -10,7 +10,7 @@ npm i @mikkelfrederiksen/fetcher
 ## Usage
 
 ```javascript
-import fetcher from "https://unpkg.com/@mikkelfrederiksen/fetcher@2.0.0/fetcher.js";
+import fetcher from "https://unpkg.com/@mikkelfrederiksen/fetcher@2.0.3/fetcher.js";
 ```
 this line will import everything you need.
 
